@@ -1,9 +1,9 @@
 # Hi, my name is Vilém and I'm a high school student.
 I'm currently studying C++ and also creating my own high-level programming language using JavaScript and Node.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo&theme=github_dark)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
 
-![Nerdzilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdzillaLindo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+![Nerdzilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdzillaLindo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdzillaLindo&size_weight=0.501&count&layout=pie&theme=github_dark)
 
