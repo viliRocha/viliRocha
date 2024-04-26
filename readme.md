@@ -3,7 +3,7 @@ I'm currently studying C++ and also creating my own high-level programming langu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NerdzillaLindo&theme=github_dark
+![GitHub stats]http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NerdzillaLindo&theme=github_dark
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdzillaLindo&size_weight=0.501&count&layout=pie&theme=dark)
 
