@@ -2,4 +2,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdzillaLindo&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdzillaLindo&size_weight=0.5&count_weight=0.5_layout=pie)
