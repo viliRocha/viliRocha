@@ -1,4 +1,4 @@
-# Hi, my name is Vilém and I'm a high school student.
+# 👋 Hi, my name is Vilém.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
 
