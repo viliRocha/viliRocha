@@ -3,8 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nerdzillalindo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nerdzillalindo)
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
-- 🌱 I'm learning how to program in cpp.
-- 🤔 I'm looking for someone who knows how to implement syntax highlighting in a programming language(unfortunately there is no documentation online about it).
+- 🌱 I'm learning cpp.
+- 🤔 I'm looking for someone who knows how to make a vs code extension for syntax highlighting in my custom programming language(unfortunately there is no documentation online about it).
 - 💬 Ask me about JavaScript, Deno.js and especially the p5 JS libraries.
 
 <h3 align="left">Languages and Tools:</h3>
