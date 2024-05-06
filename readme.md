@@ -3,6 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark)](https://github-profile-trophy.vercel.app/?username=viliRocha)
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
+- 👯 I'm looking to collaborate on whatever project that involves Python, C++, or typeScript programming. Mainly in programming languages.
 - 🌱 I'm learning cpp.
 - 🤔 I'm looking for someone who knows how to make a vs code extension for syntax highlighting in my custom programming language(unfortunately there is no documentation online about it).
 - 💬 Ask me about JavaScript, Deno.js and especially the p5 JS libraries.
