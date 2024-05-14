@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viliRocha&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&theme=github_dark&layout=compact" />
 </a>
