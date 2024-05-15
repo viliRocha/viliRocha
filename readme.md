@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Vilém.
+<h1 align="center">👋 Hi, my name is Vilém.</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark)](https://github-profile-trophy.vercel.app/?username=viliRocha)
 
