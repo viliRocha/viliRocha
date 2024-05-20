@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, my name is Vilém.</h1>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=viliRocha&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
