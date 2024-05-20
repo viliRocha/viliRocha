@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, my name is Vilém.</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark)](https://github-profile-trophy.vercel.app/?username=viliRocha)
+[![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
 - 👯 I'm looking to collaborate on whatever project that involves Python, C++, or typeScript programming. Mainly in programming languages.
@@ -18,3 +18,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&theme=github_dark&layout=compact" />
 </a>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
