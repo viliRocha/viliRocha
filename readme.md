@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, my name is Vilém.</h1>
 
-<h2 align="center">A 14 years old oftware engeneer</h2>
-
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=viliRocha&style=for-the-badge&color=blue" alt=""/>
 </div>
