@@ -23,6 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&theme=github_dark&layout=compact" />
 </a>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![snake gif](https://github.com/viliRocha/viliRocha/blob/output/github-contribution-grid-snake.gif)
