@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, my name is Vilém.</h1>
+<h3 align="center">A 14 year old software engineer</h3>
 
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=viliRocha&style=for-the-badge&color=blue" alt=""/>
@@ -23,4 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&theme=github_dark&layout=compact" />
 </a>
 
-![snake gif](https://github.com/viliRocha/viliRocha/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/viliRocha/viliRocha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/viliRocha/viliRocha/output/github-contribution-grid-snake.svg#gh-light-mode-only)
