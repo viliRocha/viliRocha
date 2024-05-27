@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=viliRocha&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<picture>
+<!--<picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=github_dark)](https://github-profile-trophy.vercel.app/?username=viliRocha"
     media="(prefers-color-scheme: dark)"
@@ -17,7 +17,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=github_dark)](https://github-profile-trophy.vercel.app/?username=viliRocha" />
-</picture>
+</picture>-->
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
 - 👯 I'm looking to collaborate on whatever project that involves Python, C++, or typeScript programming. Mainly in programming languages.
