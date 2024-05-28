@@ -5,19 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=viliRocha&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience)-->
 
-<!--<picture>
+<picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha)](https://github-profile-trophy.vercel.app/?username=viliRocha"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark)](https://github-profile-trophy.vercel.app/?username=viliRocha" />
-</picture>-->
+  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark" />
+</picture>
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
 - 👯 I'm looking to collaborate on whatever project that involves Python, C++, or typeScript programming. Mainly in programming languages.
