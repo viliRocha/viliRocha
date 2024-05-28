@@ -9,14 +9,14 @@
 
 <!--<picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=github_dark)](https://github-profile-trophy.vercel.app/?username=viliRocha"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=viliRocha)](https://github-profile-trophy.vercel.app/?username=viliRocha"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=github_dark)](https://github-profile-trophy.vercel.app/?username=viliRocha" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&theme=onedark)](https://github-profile-trophy.vercel.app/?username=viliRocha" />
 </picture>-->
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
