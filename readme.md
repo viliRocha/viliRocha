@@ -46,7 +46,7 @@
 <!--top programming languages used and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&size_weight=0.223&theme=github_dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&theme=github_dark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
