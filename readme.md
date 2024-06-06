@@ -11,13 +11,13 @@
 <!--GitHub trophies and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark" />
 </picture>
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
