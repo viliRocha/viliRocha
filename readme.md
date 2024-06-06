@@ -11,13 +11,13 @@
 <!--GitHub trophies and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience"
+    srcset="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viliRocha&title=Stars&title=Followers&title=Commits&title=Repositories&title=MultipleLang&title=PullRequest&title=Issues&title=Experience&hide_border=true&theme=onedark" />
 </picture>
 
 - 🔭 I'm currently working on my high-level programming language using JavaScript and Node.
@@ -33,27 +33,27 @@
 <!--GitHub stats  and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&theme=github_dark&hide=contribs&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&theme=github_dark&hide=contribs&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&hide=contribs&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&hide=contribs&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=viliRocha&theme=github_dark&hide=contribs&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&theme=github_dark&hide=contribs&show_icons=true" />
 </picture>
 
 <!--top programming languages used and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&theme=github_dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&hide_border=true&theme=github_dark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&hide_border=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&theme=github_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&hide_border=true&theme=github_dark&layout=compact" />
 </picture>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/viliRocha/viliRocha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
