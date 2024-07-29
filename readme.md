@@ -62,5 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliRocha&hide_border=true&theme=github_dark&layout=compact" />
 </picture>
 
+<!--Snake Eating GitHub Contributions 🐍 - syncronize with GitHub theme-->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/viliRocha/viliRocha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/viliRocha/viliRocha/output/github-contribution-grid-snake.svg#gh-light-mode-only)
