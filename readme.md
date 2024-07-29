@@ -1,6 +1,6 @@
 <!--Typing svg for greeting-->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=100000&size=30&pause=400&color=2DBA4E&center=true&vCenter=true&width=435&height=51&lines=%F0%9F%91%8B+Hi" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=100000&size=30&pause=400&color=2DBA4E&center=true&vCenter=true&width=435&height=51&lines=%F0%9F%91%8B+Hi+there" alt="Typing SVG" /></a>
 </div>
 <h2 align="center" >My name is Vilém.</h2>
 <h3 align="center" >A 14 year old software engineer</h3>
