@@ -27,7 +27,7 @@
 - 🔭 I'm currently working on my high-level programming language using TypeScript and Bun.js.
 - 👯 I'm looking to collaborate on whatever project that involves Python, C++, or typeScript programming. Mainly in programming languages.
 - 🌱 I'm currently learning cpp.
-<!--- 🤔 I'm looking for someone who knows how to make vs code extensions for syntax highlighting in my custom programming language(unfortunately there is no documentation online about it).-->
+- 🤔 I'm looking for someone who knows how to make programs using OpenGl and JOGL.
 - 💬 Ask me about JavaScript, Deno.js and especially the p5 JS libraries.
 - 📫 Reach me in: **https://discord.gg/tQ2qJaxH**
 
