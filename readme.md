@@ -29,7 +29,7 @@
 - 🌱 I'm currently learning cpp.
 - 🤔 I'm looking for someone who knows how to make programs using JOGL and SDL.
 - 💬 Ask me about JavaScript, Deno.js and especially the p5 JS libraries.
-- 📫 Reach me in: **https://discord.gg/tQ2qJaxH**
+- 📫 Reach me in: **https://discord.gg/bWwGeKzY**
 
 <h3 align="left">🔧 Languages and tools: </h3>
 <div align="left">
