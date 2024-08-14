@@ -39,14 +39,14 @@
 <!--GitHub stats  and theme synchronization with OS-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&theme=github_dark&hide=contribs&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&theme=github_dark&show_icons=true&hide_border=true&hide=contribs&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&hide=contribs&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=viliRocha&show_icons=true&hide_border=true&hide=contribs&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=viliRocha&hide_border=true&theme=github_dark&hide=contribs&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viliRocha&theme=github_dark&show_icons=true&hide_border=true&hide=contribs&count_private=true" />
 </picture>
 
 <!--top programming languages used and theme synchronization with OS-->
